@@ -37,7 +37,7 @@ Problem Statement: Build a data mapping solution through a centralized IT system
  </p>
 
 <p align="center">
-  <img align="center" width="700" height="500" src="https://github.com/mayuresh098/Hackm_hackerearth_hackathon_2018/blob/master/govt_hospital_maharashtra.PNG" alt="Maharashtra govt hospitals on markers">
+  <img align="center" width="700" height="500" src="https://github.com/mayuresh098/Hackm_hackerearth_hackathon_2018/blob/master/images/govt_hospital_maharashtra.PNG" alt="Maharashtra govt hospitals on markers">
   </br>
   <b>markers showing the government hospitals in maharashtra <a href="https://sadm.maharashtra.gov.in/sadm/en/getListofHospitals.gov"> Found here</a>
   </b>
@@ -45,14 +45,14 @@ Problem Statement: Build a data mapping solution through a centralized IT system
 
 
 <p align="center">
-  <img align="center" width="900" height="500" src="https://github.com/mayuresh098/Hackm_hackerearth_hackathon_2018/blob/master/airport2.PNG" alt="Maharashtra flight paths">
+  <img align="center" width="900" height="500" src="https://github.com/mayuresh098/Hackm_hackerearth_hackathon_2018/blob/master/images/airport2.PNG" alt="Maharashtra flight paths">
   </br>
   <b>All the Flight from maharashtra to all the airports
   </b>
 </p>
 
 <p align="center">
-  <img align="center" width="900" height="500" src="https://github.com/mayuresh098/Hackm_hackerearth_hackathon_2018/blob/master/airport3.PNG" alt="Maharashtra flight paths">
+  <img align="center" width="900" height="500" src="https://github.com/mayuresh098/Hackm_hackerearth_hackathon_2018/blob/master/images/airport3.PNG" alt="Maharashtra flight paths">
   </br>
   <b>Flights from mumbai to indian airports
   </b>
