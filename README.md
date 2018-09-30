@@ -33,7 +33,7 @@ Problem Statement: Build a data mapping solution through a centralized IT system
 <p align="center">
   <img align="center" width="700" height="500" src="https://github.com/mayuresh098/Hackm_hackerearth_hackathon_2018/blob/master/images/three_states.PNG" alt="Maharashtra district area bound">
   </br>
-                    <b>The three states bound defining the area of three states of marashtra </b>
+                    <b>The three district bound defining the area of three districts of states of marashtra </b>
  </p>
 
 <p align="center">
